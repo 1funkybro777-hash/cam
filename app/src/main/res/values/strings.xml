@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">FrameLock</string>
+    <string name="camera_permission_title">Camera Access Required</string>
+    <string name="camera_permission_subtitle">FrameLock uses your camera to detect subjects in real time, guide your framing with a tracking reticle, and auto-capture aligned shots.</string>
+    <string name="camera_permission_grant">Enable Camera</string>
+    <string name="camera_permission_settings">Open Settings</string>
+    <string name="ai_status_ready">AI CAMERA READY</string>
+    <string name="ai_status_scanning">SCANNING SCENE</string>
+    <string name="ai_guidance_point">Point camera at any person or object</string>
+    <string name="ai_guidance_hold">PERFECT ANGLE — HOLD STILL</string>
+    <string name="ai_guidance_move_left">Move camera LEFT toward dot</string>
+    <string name="ai_guidance_move_right">Move camera RIGHT toward dot</string>
+    <string name="ai_guidance_tilt_up">Tilt camera UP toward dot</string>
+    <string name="ai_guidance_tilt_down">Tilt camera DOWN toward dot</string>
+    <string name="voice_ready_prompt">AI Camera Ready. Point at any object.</string>
+    <string name="voice_move_prompt">Move camera toward the dot</string>
+    <string name="voice_hold_prompt">Hold still</string>
+    <string name="voice_captured_prompt">Perfect shot captured!</string>
+    <string name="action_toggle_voice">Toggle voice guidance</string>
+    <string name="action_flip_camera">Switch front or back camera</string>
+    <string name="action_capture_photo">Take photo</string>
+    <string name="action_toggle_auto">Toggle auto capture</string>
+    <string name="action_toggle_grid">Toggle rule of thirds grid</string>
+    <string name="action_toggle_flash">Cycle flash mode</string>
+    <string name="action_save_photo">Save to Gallery</string>
+    <string name="action_saved_photo">Saved</string>
+    <string name="action_retake">Take Another</string>
+    <string name="action_share">Share</string>
+    <string name="preview_title_auto">AI Perfect Shot Captured</string>
+    <string name="preview_title_manual">Shot Captured</string>
+    <string name="saved_toast">Photo saved to Pictures/FrameLock</string>
+    <string name="save_failed_toast">Could not save photo to gallery</string>
+    <string name="last_photo_cd">View last captured photo</string>
+    <string name="captured_photo_cd">Captured photo preview</string>
+    <string name="auto_lock_badge">AUTO LOCK</string>
+    <string name="manual_badge">MANUAL</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "FrameLock",
+  "description": "AI smart tracking camera with real-time object recognition, target reticle guidance, voice coaching, and automatic aligned photo capture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
